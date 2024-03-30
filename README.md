@@ -1,10 +1,10 @@
-Playwright project that tests https://www.saucedemo.com/ web site
+Playwright project that tests https://www.saucedemo.com/ website
 
 Requirements:
 ---
-NodeJS 18+
-VSCode or any other IDE
-GitHub account
+- NodeJS 18+
+- VSCode or any other IDE
+- GitHub account
 
 Setup:
 ---
