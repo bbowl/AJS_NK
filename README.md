@@ -8,15 +8,15 @@ Requirements:
 
 Setup:
 ---
-Playwright insall:
+- Playwright insall:
 npm init playwright@latest    
 
 Run tests:
 ---
-Console mode:
+- Console mode:
 npx playwright test 
 
-UI mode:
+- UI mode:
 npx playwright test -- UI
 
 
