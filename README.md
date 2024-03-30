@@ -8,7 +8,7 @@ Requirements:
 
 Setup:
 ---
-- Playwright insall:
+- Playwright install:
 npm init playwright@latest    
 
 Run tests:
@@ -20,7 +20,7 @@ npx playwright test
 npx playwright test -- UI
 
 
-Repository consits test1-2.spec.js file that performs:
+Repository consists test1-2.spec.js file that performs:
 --
-1. login test
+1. Login test
 2. Adding product to shopping cart test
